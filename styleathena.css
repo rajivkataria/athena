@@ -49,6 +49,7 @@ h3{
 	margin-right: 15%;
 	font-family: sans-serif;
 	background-color: DFDEE0;
+	overflow-x:hidden;
 }
 body{
 	margin-left:auto;
@@ -131,8 +132,8 @@ a:link, a:visited {
 	background-color:#7D7D7D;
 	position: absolute;
 	color: white;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 15%;
+	padding-right: 15%;
 	font-family: sans-serif;
 	left:0;
 	right:0;
