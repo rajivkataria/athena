@@ -131,10 +131,11 @@ a:link, a:visited {
   text-decoration: none;
 }
 #footer{
-	height:250px;
+	height:15%;
 	background-color:#7D7D7D;
 	position: absolute;
 	color: white;
+	overflow-x:hidden;
 	font-family: sans-serif;
 	left:0;
 	right:0;
