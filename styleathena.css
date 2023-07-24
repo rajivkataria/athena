@@ -131,7 +131,8 @@ a:link, a:visited {
   text-decoration: none;
 }
 #footer{
-	height:250px;
+	height:15%;
+	overflow-x:hidden;
 	background-color:#7D7D7D;
 	position: absolute;
 	color: white;
